@@ -1,0 +1,4 @@
+BC|British Columbia|CA|HST|0.14|True
+QB|Quebec|CA|HST|0.13|False
+NS|Nova Scotia|CA|HST|0.12|True
+ON|ONTARIO|CA|HST|0.14|True
