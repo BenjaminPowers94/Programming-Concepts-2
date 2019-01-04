@@ -1,0 +1,10 @@
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\bin\Debug\BensCalculator.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\bin\Debug\BensCalculator.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\bin\Debug\BensCalculator.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.Form1.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.csproj.GenerateResource.Cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass1\BensCalculator\BensCalculator\obj\Debug\BensCalculator.pdb
