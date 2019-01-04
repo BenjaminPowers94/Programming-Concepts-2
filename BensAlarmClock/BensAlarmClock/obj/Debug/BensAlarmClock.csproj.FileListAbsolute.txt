@@ -1,0 +1,32 @@
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Form1.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.pdb
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe.config
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.pdb
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Form1.resources
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Properties.Resources.resources
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.GenerateResource.Cache
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.CoreCompileInputs.cache
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.exe
+G:\Current Courses\Programming Concepts II\inClass3\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\bin\Debug\BensAlarmClock.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Form1.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.exe
+C:\Users\ya_ma\Desktop\Programming Concepts II\inClass2\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.pdb
+C:\Users\ya_ma\Desktop\Source Code\Programming Concepts 2\In Class Assignments\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Source Code\Programming Concepts 2\In Class Assignments\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.exe
+C:\Users\ya_ma\Desktop\Source Code\Programming Concepts 2\In Class Assignments\inClass2\inClass2\BensAlarmClock\BensAlarmClock\BensAlarmClock\BensAlarmClock\obj\Debug\BensAlarmClock.pdb
